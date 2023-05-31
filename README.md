@@ -34,7 +34,7 @@ This project leverages cutting-edge technologies to deliver a secure and efficie
 
 To set up the Todo App Backend on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/example/project.git`
+1. Clone the repository: `git clone https://github.com/SunnyVerma08/todo-app-backend.git`
 2. Install the dependencies: `npm install`
 3. Set up environment variables:
    - Create a `.env` file in the project root directory.
