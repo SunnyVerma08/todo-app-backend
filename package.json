@@ -1,0 +1,24 @@
+{
+  "name": "todo-app-backend",
+  "version": "1.0.0",
+  "description": "The Todo App Backend is a professional-grade RESTful API that provides robust functionality for managing todos and user authentication. The API allows users to register, log in, create, update, view, and delete todos. Users can also update their account details and password.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Sunny Kumar Verma <skv0806@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}
